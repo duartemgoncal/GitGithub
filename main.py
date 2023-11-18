@@ -1,7 +1,9 @@
 from random import randint 
 from time import sleep
 
+#Gera um número aleatório
 n = randint(1, 10)
+#Pede uma tentativa
 j = int(input("Tentativa: "))
 
 print("Analisando...")
